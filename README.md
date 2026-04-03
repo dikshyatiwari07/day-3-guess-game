@@ -20,6 +20,6 @@ This is a simple number guessing game built using Python.
 - Building interactive programs
 
 ## 📂 Project Structure
-day-3-guess-game/
+day-3-guess-game🎯
  ├── day3_guess_game.py
  └── README.md
