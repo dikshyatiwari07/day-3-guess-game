@@ -15,11 +15,11 @@ while True:
         attempts += 1
 
         if guess < number:
-            print("Too low! ⬇️")
+            print("Too low! ")
         elif guess > number:
-            print("Too high! ⬆️")
+            print("Too high! ")
         else:
-            print(f"🎉 Correct! You guessed it in {attempts} attempts.")
+            print(f"Correct! You guessed it in {attempts} attempts.")
             break
 
     except ValueError:
